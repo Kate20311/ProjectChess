@@ -1,0 +1,5 @@
+1 Pawn 3 7 4 4 
+0 Pawn 2 2 2 4 
+1 Bishop 6 8 7 5 
+0 Knight 7 1 6 3 
+1 Pawn 5 7 6 3 
